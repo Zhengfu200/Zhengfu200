@@ -1,5 +1,5 @@
 #Wish you have a good day :)  ![Static Badge](https://img.shields.io/badge/zhengfu200-blue)  
-<img src = "https://github.com/Zhengfu200/Zhengfu200/blob/main/capo%20-original-original.gif">
+<img src = "https://github.com/Zhengfu200/Zhengfu200/blob/main/capo%20-original-original.gif =512*512">
  
 ---  
 <p align="center">
