@@ -1,6 +1,8 @@
 #Wish you have a good day :)  ![Static Badge](https://img.shields.io/badge/zhengfu200-blue)  
-<img src = "https://github.com/Zhengfu200/Zhengfu200/blob/main/capo%20-original-original.gif" width="200">
- 
+<img src = "https://github.com/Zhengfu200/Zhengfu200/blob/main/capo%20-original-original.gif" width="300">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+
+
 ---  
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
