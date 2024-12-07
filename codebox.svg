@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200">
+  <!-- 背景框 -->
+  <rect id="background-rect" x="0" y="0" width="600" height="200" rx="10" ry="10" fill="#282C34" stroke="#ABB2BF" stroke-width="1" />
+
+  <!-- 顶部按钮 -->
+  <circle cx="20" cy="20" r="7" fill="#FF5F56"/>  <!-- 红色按钮 -->
+  <circle cx="40" cy="20" r="7" fill="#FFBD2E"/>  <!-- 黄色按钮 -->
+  <circle cx="60" cy="20" r="7" fill="#27C93F"/>  <!-- 绿色按钮 -->
+
+  <!-- 显示文本 -->
+  <text id="typing-text" x="10" y="50" font-size="18" fill="white" font-family="'Courier New', monospace">
+    <tspan id="text" x="10" y="50"></tspan>
+  </text>
+
+  <!-- 引用外部 JavaScript 文件 -->
+  <script type="text/javascript" href="typing-effect.js"></script>
+</svg>
