@@ -2,6 +2,11 @@
   <img src="https://raw.githubusercontent.com/Zhengfu200/Zhengfu200/refs/heads/main/typing_effect.svg"/>
 </div>    
 
+
+<div>
+  <img src="https://raw.githubusercontent.com/Zhengfu200/Zhengfu200/refs/heads/main/about.svg">
+</div>    
+
 ---
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
