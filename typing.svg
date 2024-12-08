@@ -1,0 +1,57 @@
+<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="40" font-family="Courier New" font-size="24" fill="black" letter-spacing="-2">
+    <!-- 打字文本 -->
+    <tspan id="char1" visibility="hidden">H</tspan>
+    <tspan id="char2" visibility="hidden">e</tspan>
+    <tspan id="char3" visibility="hidden">l</tspan>
+    <tspan id="char4" visibility="hidden">l</tspan>
+    <tspan id="char5" visibility="hidden">o</tspan>
+    <tspan id="char6" visibility="hidden">,</tspan>
+    <tspan id="char7" visibility="hidden"> </tspan>
+    <tspan id="char8" visibility="hidden">S</tspan>
+    <tspan id="char9" visibility="hidden">V</tspan>
+    <tspan id="char10" visibility="hidden">G</tspan>
+    <tspan id="char11" visibility="hidden"> </tspan>
+    <tspan id="char12" visibility="hidden">t</tspan>
+    <tspan id="char13" visibility="hidden">y</tspan>
+    <tspan id="char14" visibility="hidden">p</tspan>
+    <tspan id="char15" visibility="hidden">i</tspan>
+    <tspan id="char16" visibility="hidden">n</tspan>
+    <tspan id="char17" visibility="hidden">g</tspan>
+    <tspan id="char18" visibility="hidden"> </tspan>
+    <tspan id="char19" visibility="hidden">e</tspan>
+    <tspan id="char20" visibility="hidden">f</tspan>
+    <tspan id="char21" visibility="hidden">f</tspan>
+    <tspan id="char22" visibility="hidden">e</tspan>
+    <tspan id="char23" visibility="hidden">c</tspan>
+    <tspan id="char24" visibility="hidden">t</tspan>
+    <tspan id="char25" visibility="hidden">!</tspan>
+
+    <!-- 动画定义，逐个字母显示 -->
+    <animate href="#char1" attributeName="visibility" from="hidden" to="visible" begin="0s" dur="0.2s" fill="freeze"/>
+    <animate href="#char2" attributeName="visibility" from="hidden" to="visible" begin="0.2s" dur="0.2s" fill="freeze"/>
+    <animate href="#char3" attributeName="visibility" from="hidden" to="visible" begin="0.4s" dur="0.2s" fill="freeze"/>
+    <animate href="#char4" attributeName="visibility" from="hidden" to="visible" begin="0.6s" dur="0.2s" fill="freeze"/>
+    <animate href="#char5" attributeName="visibility" from="hidden" to="visible" begin="0.8s" dur="0.2s" fill="freeze"/>
+    <animate href="#char6" attributeName="visibility" from="hidden" to="visible" begin="1s" dur="0.2s" fill="freeze"/>
+    <animate href="#char7" attributeName="visibility" from="hidden" to="visible" begin="1.2s" dur="0.2s" fill="freeze"/>
+    <animate href="#char8" attributeName="visibility" from="hidden" to="visible" begin="1.4s" dur="0.2s" fill="freeze"/>
+    <animate href="#char9" attributeName="visibility" from="hidden" to="visible" begin="1.6s" dur="0.2s" fill="freeze"/>
+    <animate href="#char10" attributeName="visibility" from="hidden" to="visible" begin="1.8s" dur="0.2s" fill="freeze"/>
+    <animate href="#char11" attributeName="visibility" from="hidden" to="visible" begin="2s" dur="0.2s" fill="freeze"/>
+    <animate href="#char12" attributeName="visibility" from="hidden" to="visible" begin="2.2s" dur="0.2s" fill="freeze"/>
+    <animate href="#char13" attributeName="visibility" from="hidden" to="visible" begin="2.4s" dur="0.2s" fill="freeze"/>
+    <animate href="#char14" attributeName="visibility" from="hidden" to="visible" begin="2.6s" dur="0.2s" fill="freeze"/>
+    <animate href="#char15" attributeName="visibility" from="hidden" to="visible" begin="2.8s" dur="0.2s" fill="freeze"/>
+    <animate href="#char16" attributeName="visibility" from="hidden" to="visible" begin="3s" dur="0.2s" fill="freeze"/>
+    <animate href="#char17" attributeName="visibility" from="hidden" to="visible" begin="3.2s" dur="0.2s" fill="freeze"/>
+    <animate href="#char18" attributeName="visibility" from="hidden" to="visible" begin="3.4s" dur="0.2s" fill="freeze"/>
+    <animate href="#char19" attributeName="visibility" from="hidden" to="visible" begin="3.6s" dur="0.2s" fill="freeze"/>
+    <animate href="#char20" attributeName="visibility" from="hidden" to="visible" begin="3.8s" dur="0.2s" fill="freeze"/>
+    <animate href="#char21" attributeName="visibility" from="hidden" to="visible" begin="4s" dur="0.2s" fill="freeze"/>
+    <animate href="#char22" attributeName="visibility" from="hidden" to="visible" begin="4.2s" dur="0.2s" fill="freeze"/>
+    <animate href="#char23" attributeName="visibility" from="hidden" to="visible" begin="4.4s" dur="0.2s" fill="freeze"/>
+    <animate href="#char24" attributeName="visibility" from="hidden" to="visible" begin="4.6s" dur="0.2s" fill="freeze"/>
+    <animate href="#char25" attributeName="visibility" from="hidden" to="visible" begin="4.8s" dur="0.2s" fill="freeze"/>
+  </text>
+</svg>
