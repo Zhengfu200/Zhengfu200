@@ -3,9 +3,7 @@
 </div>    
 
 
-<div>
-  <img src="https://raw.githubusercontent.com/Zhengfu200/Zhengfu200/refs/heads/main/about.svg">
-</div>    
+  
 
 ---
 <p align="center">
