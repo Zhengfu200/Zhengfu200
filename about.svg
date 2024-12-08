@@ -1,18 +1,19 @@
-<svg width="700" height="110" xmlns="http://www.w3.org/2000/svg">
-  <text x="10" font-family="Courier New, monospace" font-size="16" fill="black" font-weight="bold">
-    <tspan id="line1" y="100" opacity="0">-🖖Hello,I'm zhengfu200!</tspan>
+<svg width="700" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#2C3E50" stroke="#ccc" stroke-width="2" rx="5" ry="5" />
+  <text x="10" font-family="Courier New, monospace" font-size="16" fill="white" font-weight="bold">
+    <tspan id="line1" y="100" opacity="0">>🖖Hello,I'm zhengfu200!</tspan>
   </text>
-  <text x="10" font-family="Courier New, monospace" font-size="16" fill="black" font-weight="bold">
-    <tspan id="line2" y="100" opacity="0">-😊I'm a student from Fuzhou No.3 High School</tspan>
+  <text x="10" font-family="Courier New, monospace" font-size="16" fill="white" font-weight="bold">
+    <tspan id="line2" y="100" opacity="0">>😊I'm a student from Fuzhou No.3 High School</tspan>
   </text>
-  <text x="10" font-family="Courier New, monospace" font-size="16" fill="black" font-weight="bold">
-    <tspan id="line3" y="100" opacity="0">-💻I'm a laptop player and a developer</tspan>
+  <text x="10" font-family="Courier New, monospace" font-size="16" fill="white" font-weight="bold">
+    <tspan id="line3" y="100" opacity="0">>💻I'm a laptop player and a developer</tspan>
   </text>
-  <text x="10" font-family="Courier New, monospace" font-size="16" fill="black" font-weight="bold">
-    <tspan id="line4" y="100" opacity="0">-🚩currently working on Vue.js,Html and Android Studio</tspan>
+  <text x="10" font-family="Courier New, monospace" font-size="16" fill="white" font-weight="bold">
+    <tspan id="line4" y="100" opacity="0">>🚩currently working on Vue.js,Html and Android Studio</tspan>
   </text>
-  <text x="10" font-family="Courier New, monospace" font-size="16" fill="black" font-weight="bold">
-    <tspan id="line5" y="100" opacity="0">-🟢plan to learn Unity,C# and Css Design</tspan>
+  <text x="10" font-family="Courier New, monospace" font-size="16" fill="white" font-weight="bold">
+    <tspan id="line5" y="100" opacity="0">>🟢plan to learn Unity,C# and Css Design</tspan>
   </text>
   <animate 
     href="#line1" 
