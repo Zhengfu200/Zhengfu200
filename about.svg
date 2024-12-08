@@ -1,0 +1,92 @@
+<svg width="500" height="110" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" font-family="Courier New, monospace" font-size="16" fill="black" font-weight="bold">
+    <tspan id="line1" y="100" opacity="0">-🖖Hello,I'm zhengfu200!</tspan>
+  </text>
+  <text x="10" font-family="Courier New, monospace" font-size="16" fill="black" font-weight="bold">
+    <tspan id="line2" y="100" opacity="0">-😊I'm a student from Fuzhou No.3 High School</tspan>
+  </text>
+  <text x="10" font-family="Courier New, monospace" font-size="16" fill="black" font-weight="bold">
+    <tspan id="line3" y="100" opacity="0">-💻I'm a laptop player and a developer</tspan>
+  </text>
+  <text x="10" font-family="Courier New, monospace" font-size="16" fill="black" font-weight="bold">
+    <tspan id="line4" y="100" opacity="0">-🚩currently working on Vue.js,Html and Android Studio</tspan>
+  </text>
+  <text x="10" font-family="Courier New, monospace" font-size="16" fill="black" font-weight="bold">
+    <tspan id="line5" y="100" opacity="0">-🟢plan to learn Unity,C# and Css Design</tspan>
+  </text>
+  <animate 
+    href="#line1" 
+    attributeName="y" 
+    from="100" to="20" 
+    dur="0.25s" 
+    begin="0s" 
+    fill="freeze" />
+  <animate 
+    href="#line1" 
+    attributeName="opacity" 
+    from="0" to="1" 
+    dur="0.25s" 
+    begin="0s" 
+    fill="freeze" />
+
+  <animate 
+    href="#line2" 
+    attributeName="y" 
+    from="100" to="40" 
+    dur="0.25s" 
+    begin="0.25s" 
+    fill="freeze" />
+  <animate 
+    href="#line2" 
+    attributeName="opacity" 
+    from="0" to="1" 
+    dur="0.25s" 
+    begin="0.25s" 
+    fill="freeze" />
+
+  <animate 
+    href="#line3" 
+    attributeName="y" 
+    from="100" to="60" 
+    dur="0.25s" 
+    begin="0.5s" 
+    fill="freeze" />
+  <animate 
+    href="#line3" 
+    attributeName="opacity" 
+    from="0" to="1" 
+    dur="0.25s" 
+    begin="0.5s" 
+    fill="freeze" />
+
+    <animate 
+    href="#line4" 
+    attributeName="y" 
+    from="100" to="80" 
+    dur="0.25s" 
+    begin="0.75s" 
+    fill="freeze" />
+  <animate 
+    href="#line4" 
+    attributeName="opacity" 
+    from="0" to="1" 
+    dur="0.25s" 
+    begin="0.75s" 
+    fill="freeze" />
+
+    <animate 
+    href="#line5" 
+    attributeName="y" 
+    from="100" to="100" 
+    dur="0.25s" 
+    begin="1s" 
+    fill="freeze" />
+  <animate 
+    href="#line5" 
+    attributeName="opacity" 
+    from="0" to="1" 
+    dur="0.25s" 
+    begin="1s" 
+    fill="freeze" />
+    
+</svg>
