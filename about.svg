@@ -1,5 +1,5 @@
-<svg width="700" height="120" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="#2C3E50" stroke="#ccc" stroke-width="2" rx="5" ry="5" />
+<svg width="700" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="70%" fill="#2C3E50" stroke="#ccc" stroke-width="2" y="30" rx="5" ry="5" />
   <text x="10" font-family="Courier New, monospace" font-size="16" fill="white" font-weight="bold">
     <tspan id="line1" y="100" opacity="0">> 🖖Hello,I'm zhengfu200!</tspan>
   </text>
@@ -18,76 +18,76 @@
   <animate 
     href="#line1" 
     attributeName="y" 
-    from="100" to="20" 
-    dur="0.25s" 
+    from="100" to="60" 
+    dur="0.5s" 
     begin="0s" 
     fill="freeze" />
   <animate 
     href="#line1" 
     attributeName="opacity" 
     from="0" to="1" 
-    dur="0.25s" 
+    dur="0.5s" 
     begin="0s" 
     fill="freeze" />
 
   <animate 
     href="#line2" 
     attributeName="y" 
-    from="100" to="40" 
-    dur="0.25s" 
-    begin="0.25s" 
+    from="100" to="80" 
+    dur="0.5s" 
+    begin="0.5s" 
     fill="freeze" />
   <animate 
     href="#line2" 
     attributeName="opacity" 
     from="0" to="1" 
-    dur="0.25s" 
-    begin="0.25s" 
+    dur="0.5s" 
+    begin="0.5s" 
     fill="freeze" />
 
   <animate 
     href="#line3" 
-    attributeName="y" 
-    from="100" to="60" 
-    dur="0.25s" 
-    begin="0.5s" 
-    fill="freeze" />
-  <animate 
-    href="#line3" 
-    attributeName="opacity" 
-    from="0" to="1" 
-    dur="0.25s" 
-    begin="0.5s" 
-    fill="freeze" />
-
-    <animate 
-    href="#line4" 
-    attributeName="y" 
-    from="100" to="80" 
-    dur="0.25s" 
-    begin="0.75s" 
-    fill="freeze" />
-  <animate 
-    href="#line4" 
-    attributeName="opacity" 
-    from="0" to="1" 
-    dur="0.25s" 
-    begin="0.75s" 
-    fill="freeze" />
-
-    <animate 
-    href="#line5" 
     attributeName="y" 
     from="100" to="100" 
-    dur="0.25s" 
-    begin="1s" 
+    dur="0.5s" 
+    begin="1.0s" 
+    fill="freeze" />
+  <animate 
+    href="#line3" 
+    attributeName="opacity" 
+    from="0" to="1" 
+    dur="0.5s" 
+    begin="1.0s" 
+    fill="freeze" />
+
+    <animate 
+    href="#line4" 
+    attributeName="y" 
+    from="100" to="120" 
+    dur="0.5s" 
+    begin="1.5s" 
+    fill="freeze" />
+  <animate 
+    href="#line4" 
+    attributeName="opacity" 
+    from="0" to="1" 
+    dur="0.5s" 
+    begin="1.5s" 
+    fill="freeze" />
+
+    <animate 
+    href="#line5" 
+    attributeName="y" 
+    from="100" to="140" 
+    dur="0.5s" 
+    begin="2.0s" 
     fill="freeze" />
   <animate 
     href="#line5" 
     attributeName="opacity" 
     from="0" to="1" 
-    dur="0.25s" 
-    begin="1s" 
+    dur="0.5s" 
+    begin="2.0s" 
     fill="freeze" />
     
 </svg>
