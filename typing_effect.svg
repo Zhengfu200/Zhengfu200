@@ -1,0 +1,31 @@
+<svg width="500" height="100" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="50" font-family="Georgia, serif" font-size="40" font-style="italic">
+    <tspan id="letter1" opacity="0" fill="red">H</tspan>
+    <tspan id="letter2" opacity="0" dx="5" fill="orange">e</tspan>
+    <tspan id="letter3" opacity="0" dx="5" fill="yellow">l</tspan>
+    <tspan id="letter4" opacity="0" dx="5" fill="green">l</tspan>
+    <tspan id="letter5" opacity="0" dx="5" fill="blue">o</tspan>
+    <tspan id="letter6" opacity="0" dx="5" fill="purple">,</tspan>
+    <tspan id="letter7" opacity="0" dx="5" fill="pink"> </tspan>
+    <tspan id="letter8" opacity="0" dx="5" fill="cyan">W</tspan>
+    <tspan id="letter9" opacity="0" dx="5" fill="magenta">o</tspan>
+    <tspan id="letter10" opacity="0" dx="5" fill="lime">r</tspan>
+    <tspan id="letter11" opacity="0" dx="5" fill="brown">l</tspan>
+    <tspan id="letter12" opacity="0" dx="5" fill="teal">d</tspan>
+    <tspan id="letter13" opacity="0" dx="5" fill="navy">!</tspan>
+  </text>
+
+  <animate href="#letter1" attributeName="opacity" from="0" to="1" dur="0.25s" begin="0s" fill="freeze" />
+  <animate href="#letter2" attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.25s" fill="freeze" />
+  <animate href="#letter3" attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.5s" fill="freeze" />
+  <animate href="#letter4" attributeName="opacity" from="0" to="1" dur="0.25s" begin="0.75s" fill="freeze" />
+  <animate href="#letter5" attributeName="opacity" from="0" to="1" dur="0.25s" begin="1s" fill="freeze" />
+  <animate href="#letter6" attributeName="opacity" from="0" to="1" dur="0.25s" begin="1.25s" fill="freeze" />
+  <animate href="#letter7" attributeName="opacity" from="0" to="1" dur="0.25s" begin="1.5s" fill="freeze" />
+  <animate href="#letter8" attributeName="opacity" from="0" to="1" dur="0.25s" begin="1.75s" fill="freeze" />
+  <animate href="#letter9" attributeName="opacity" from="0" to="1" dur="0.25s" begin="2s" fill="freeze" />
+  <animate href="#letter10" attributeName="opacity" from="0" to="1" dur="0.25s" begin="2.25s" fill="freeze" />
+  <animate href="#letter11" attributeName="opacity" from="0" to="1" dur="0.25s" begin="2.5s" fill="freeze" />
+  <animate href="#letter12" attributeName="opacity" from="0" to="1" dur="0.25s" begin="2.75s" fill="freeze" />
+  <animate href="#letter13" attributeName="opacity" from="0" to="1" dur="0.25s" begin="3s" fill="freeze" />
+</svg>

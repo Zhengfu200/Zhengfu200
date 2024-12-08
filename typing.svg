@@ -3,7 +3,7 @@
   <rect x="5" y="5" width="790" height="70" fill="#2e3b4e" rx="10" ry="10" stroke="#1e2a38" stroke-width="2"/>
 
   <!-- 文本 -->
-  <text x="20" y="40" font-family="Courier New, monospace" font-size="24" fill="white" letter-spacing="-2">
+  <text x="20" y="35" font-family="Courier New, monospace" font-size="24" fill="white" letter-spacing="-2">
     <!-- 打字文本 -->
     <tspan id="char1" visibility="hidden">H</tspan>
     <tspan id="char2" visibility="hidden">e</tspan>
