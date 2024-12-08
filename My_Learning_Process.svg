@@ -1,0 +1,79 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <!-- 纵轴 -->
+  <line x1="50" y1="250" x2="50" y2="50" stroke="gray" stroke-width="2" />
+  <polygon points="45,50 55,50 50,40" fill="gray" /> <!-- 纵轴箭头 -->
+
+  <!-- 横轴 -->
+  <line x1="50" y1="250" x2="350" y2="250" stroke="gray" stroke-width="2" />
+  <polygon points="350,245 360,250 350,255" fill="gray" /> <!-- 横轴箭头 -->
+
+  <!-- 纵轴刻度 -->
+  <line x1="50" y1="250" x2="45" y2="250" stroke="gray" />
+  <text x="30" y="255" font-family="Arial" font-size="10" fill="gray">0</text>
+  
+  <line x1="50" y1="200" x2="45" y2="200" stroke="gray" />
+  <text x="30" y="205" font-family="Arial" font-size="10" fill="gray">100</text>
+
+  <line x1="50" y1="150" x2="45" y2="150" stroke="gray" />
+  <text x="30" y="155" font-family="Arial" font-size="10" fill="gray">150</text>
+
+  <line x1="50" y1="100" x2="45" y2="100" stroke="gray" />
+  <text x="30" y="105" font-family="Arial" font-size="10" fill="gray">200</text>
+
+  <!-- 备注 -->
+  <text x="30" y="150" font-family="Arial" font-size="14" fill="gray" transform="rotate(-90 30,150)">
+    My Learning Process
+  </text>
+
+  <!-- 柱子 A (高度 50) -->
+  <rect x="70" y="250" width="40" height="50" rx="8" ry="8" fill="#4FC08D">
+    <animate attributeName="height" from="0" to="50" dur="0.5s" fill="freeze" />
+    <animate attributeName="y" from="250" to="200" dur="0.5s" fill="freeze" />
+  </rect>
+  <text x="90" y="190" font-family="Arial" font-size="12" text-anchor="middle">
+    <tspan>
+      <animate attributeName="y" from="250" to="190" dur="0.5s" fill="freeze" />
+      50
+    </tspan>
+  </text>
+  <image href="https://raw.githubusercontent.com/Zhengfu200/Zhengfu200/refs/heads/main/svg-icons/vuedotjs.svg" x="70" y="260" width="30" height="30" />
+
+  <!-- 柱子 B (高度 180) -->
+  <rect x="130" y="250" width="40" height="180" rx="8" ry="8" fill="#3DDC84">
+    <animate attributeName="height" from="0" to="180" dur="0.5s" fill="freeze" />
+    <animate attributeName="y" from="250" to="70" dur="0.5s" fill="freeze" />
+  </rect>
+  <text x="150" y="65" font-family="Arial" font-size="12" text-anchor="middle">
+    <tspan>
+      <animate attributeName="y" from="250" to="65" dur="0.5s" fill="freeze" />
+      180
+    </tspan>
+  </text>
+  <image href="https://raw.githubusercontent.com/Zhengfu200/Zhengfu200/refs/heads/main/svg-icons/androidstudio.svg" x="130" y="260" width="30" height="30" />
+
+  <!-- 柱子 C (高度 100) -->
+  <rect x="190" y="250" width="40" height="100" rx="8" ry="8" fill="#F7DF1E">
+    <animate attributeName="height" from="0" to="100" dur="0.5s" fill="freeze" />
+    <animate attributeName="y" from="250" to="150" dur="0.5s" fill="freeze" />
+  </rect>
+  <text x="210" y="145" font-family="Arial" font-size="12" text-anchor="middle">
+    <tspan>
+      <animate attributeName="y" from="250" to="145" dur="0.5s" fill="freeze" />
+      100
+    </tspan>
+  </text>
+  <image href="https://raw.githubusercontent.com/Zhengfu200/Zhengfu200/refs/heads/main/svg-icons/javascript.svg" x="190" y="260" width="30" height="30" />
+
+  <!-- 柱子 D (高度 60) -->
+  <rect x="250" y="250" width="40" height="60" rx="8" ry="8" fill="#1572B6">
+    <animate attributeName="height" from="0" to="60" dur="0.5s" fill="freeze" />
+    <animate attributeName="y" from="250" to="190" dur="0.5s" fill="freeze" />
+  </rect>
+  <text x="270" y="190" font-family="Arial" font-size="12" text-anchor="middle">
+    <tspan>
+      <animate attributeName="y" from="250" to="190" dur="0.5s" fill="freeze" />
+      60
+    </tspan>
+  </text>
+  <image href="https://raw.githubusercontent.com/Zhengfu200/Zhengfu200/refs/heads/main/svg-icons/css3.svg" x="250" y="260" width="30" height="30" />
+</svg>
