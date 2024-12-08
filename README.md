@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Zhengfu200/Zhengfu200/refs/heads/main/typing.svg"/>
+</div>
 <img src="https://github-readme-stats.vercel.app/api?username=Zhengfu200&show_icons=true&icon_color=00BCD4&text_color=90CAF9&bg_color=1565C0&hide_title=true" width="400"/>   
 <span>My contributions</span>
 <img src = "https://raw.githubusercontent.com/Zhengfu200/Zhengfu200/refs/heads/main/github-user-contribution.svg">
