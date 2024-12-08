@@ -1,5 +1,9 @@
-<svg width="800" height="100" xmlns="http://www.w3.org/2000/svg">
-  <text x="10" y="20" font-family="Courier New" font-size="24" fill="black" letter-spacing="-6">
+<svg width="800" height="80" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景矩形，模拟代码框 -->
+  <rect x="5" y="5" width="790" height="70" fill="#2e3b4e" rx="10" ry="10" stroke="#1e2a38" stroke-width="2"/>
+
+  <!-- 文本 -->
+  <text x="20" y="40" font-family="Courier New, monospace" font-size="24" fill="white" letter-spacing="-2">
     <!-- 打字文本 -->
     <tspan id="char1" visibility="hidden">H</tspan>
     <tspan id="char2" visibility="hidden">e</tspan>
