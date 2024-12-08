@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/Zhengfu200/Zhengfu200/refs/heads/main/typing_effect.svg"/>
 </div>    
 
+### About Me
+
 <img src="https://raw.githubusercontent.com/Zhengfu200/Zhengfu200/refs/heads/main/about.svg"/>
 
 ---
@@ -13,3 +15,7 @@
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
+---    
+
+### My Code:    
+<img src="https://raw.githubusercontent.com/Zhengfu200/Zhengfu200/refs/heads/main/My_Learning_Process.svg"/>
