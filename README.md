@@ -1,11 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zhengfu200/Zhengfu200/refs/heads/main/typing.svg"/>
+  <img src="https://raw.githubusercontent.com/Zhengfu200/Zhengfu200/refs/heads/main/typing_effect.svg"/>
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=Zhengfu200&show_icons=true&icon_color=00BCD4&text_color=90CAF9&bg_color=1565C0&hide_title=true" width="400"/>   
-<span>My contributions</span>
-<img src = "https://raw.githubusercontent.com/Zhengfu200/Zhengfu200/refs/heads/main/github-user-contribution.svg">
 
----  
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"/>
