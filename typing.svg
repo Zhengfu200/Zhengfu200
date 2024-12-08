@@ -1,5 +1,5 @@
-<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
-  <text x="10" y="40" font-family="Courier New" font-size="24" fill="black" letter-spacing="-2">
+<svg width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="20" font-family="Courier New" font-size="24" fill="black" letter-spacing="-6">
     <!-- 打字文本 -->
     <tspan id="char1" visibility="hidden">H</tspan>
     <tspan id="char2" visibility="hidden">e</tspan>
@@ -7,25 +7,26 @@
     <tspan id="char4" visibility="hidden">l</tspan>
     <tspan id="char5" visibility="hidden">o</tspan>
     <tspan id="char6" visibility="hidden">,</tspan>
-    <tspan id="char7" visibility="hidden"> </tspan>
-    <tspan id="char8" visibility="hidden">S</tspan>
-    <tspan id="char9" visibility="hidden">V</tspan>
-    <tspan id="char10" visibility="hidden">G</tspan>
-    <tspan id="char11" visibility="hidden"> </tspan>
-    <tspan id="char12" visibility="hidden">t</tspan>
-    <tspan id="char13" visibility="hidden">y</tspan>
-    <tspan id="char14" visibility="hidden">p</tspan>
-    <tspan id="char15" visibility="hidden">i</tspan>
-    <tspan id="char16" visibility="hidden">n</tspan>
-    <tspan id="char17" visibility="hidden">g</tspan>
-    <tspan id="char18" visibility="hidden"> </tspan>
-    <tspan id="char19" visibility="hidden">e</tspan>
-    <tspan id="char20" visibility="hidden">f</tspan>
+    <tspan id="char7" visibility="hidden">&#160;</tspan> <!-- Non-breaking space -->
+    <tspan id="char8" visibility="hidden">T</tspan>
+    <tspan id="char9" visibility="hidden">h</tspan>
+    <tspan id="char10" visibility="hidden">i</tspan>
+    <tspan id="char11" visibility="hidden">s</tspan>
+    <tspan id="char12" visibility="hidden">&#160;</tspan> <!-- Non-breaking space -->
+    <tspan id="char13" visibility="hidden">i</tspan>
+    <tspan id="char14" visibility="hidden">s</tspan>
+    <tspan id="char15" visibility="hidden">&#160;</tspan> <!-- Non-breaking space -->
+    <tspan id="char16" visibility="hidden">z</tspan>
+    <tspan id="char17" visibility="hidden">h</tspan>
+    <tspan id="char18" visibility="hidden">e</tspan>
+    <tspan id="char19" visibility="hidden">n</tspan>
+    <tspan id="char20" visibility="hidden">g</tspan>
     <tspan id="char21" visibility="hidden">f</tspan>
-    <tspan id="char22" visibility="hidden">e</tspan>
-    <tspan id="char23" visibility="hidden">c</tspan>
-    <tspan id="char24" visibility="hidden">t</tspan>
-    <tspan id="char25" visibility="hidden">!</tspan>
+    <tspan id="char22" visibility="hidden">u</tspan>
+    <tspan id="char23" visibility="hidden">2</tspan>
+    <tspan id="char24" visibility="hidden">0</tspan>
+    <tspan id="char25" visibility="hidden">0</tspan>
+    <tspan id="char26" visibility="hidden">!</tspan>
 
     <!-- 动画定义，逐个字母显示 -->
     <animate href="#char1" attributeName="visibility" from="hidden" to="visible" begin="0s" dur="0.2s" fill="freeze"/>
@@ -53,5 +54,6 @@
     <animate href="#char23" attributeName="visibility" from="hidden" to="visible" begin="4.4s" dur="0.2s" fill="freeze"/>
     <animate href="#char24" attributeName="visibility" from="hidden" to="visible" begin="4.6s" dur="0.2s" fill="freeze"/>
     <animate href="#char25" attributeName="visibility" from="hidden" to="visible" begin="4.8s" dur="0.2s" fill="freeze"/>
+    <animate href="#char26" attributeName="visibility" from="hidden" to="visible" begin="5s" dur="0.2s" fill="freeze"/>
   </text>
 </svg>
