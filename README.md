@@ -8,6 +8,8 @@
 ---
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Zhengfu200&rank_icon=default&hide_rank=true&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=cobalt)](https://github-stats-extended.vercel.app/api?username=Zhengfu200&rank_icon=default&hide_rank=true&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=cobalt)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Zhengfu200&langs_count=4&theme=moltack)](https://github-stats-extended.vercel.app/api/top-langs?username=Zhengfu200&langs_count=4&theme=moltack)
 ---  
 
 [![zhengfu200's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhengfu200)](https://github.com/ashutosh00710/github-readme-activity-graph)
