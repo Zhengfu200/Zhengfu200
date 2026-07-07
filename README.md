@@ -10,4 +10,10 @@
  
  ---  
  
- [![zhengfu200's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhengfu200)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![zhengfu200's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhengfu200)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+ --- 
+ 
+ <div align="center">
+   <img src="https://steam-stats-beige.vercel.app/api/stats?steamid=76561199561698781&theme=dark" alt="Steam Stats"/>
+ </div>
