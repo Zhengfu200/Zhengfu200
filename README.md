@@ -14,6 +14,4 @@
  
  --- 
  
- <div align="center">
-   <img src="https://steam-stats-beige.vercel.app/api/stats?steamid=76561199561698781&theme=dark" alt="Steam Stats"/>
- </div>
+![Steam Stats](https://steam-stats-beige.vercel.app/api/stats?steamid=76561199561698781&theme=tokyonight)
