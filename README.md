@@ -6,7 +6,7 @@
  
  ---  
  
-[![Steam Stats](https://steam-profile-stats.vercel.app/api/card?username=zhengfu200&theme=dark&disable_animations=false&show_games=true&show_hours=true&show_joined=true&show_location=true&_=1783473811408)](https://steamcommunity.com/id/zhengfu200)
+[![Steam Stats](https://steam-profile-stats.vercel.app/api/card?username=zhengfu200&theme=dracula&disable_animations=false&show_games=true&show_hours=true&show_joined=true&show_location=true&_=1783473915205)](https://steamcommunity.com/id/zhengfu200)
  
  --- 
  
