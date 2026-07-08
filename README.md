@@ -10,7 +10,7 @@
  
  ---  
  
-[![Steam Stats](https://steam-profile-stats.vercel.app/api/card?steamid=76561199561698781&theme=dark&disable_animations=false&_=1783468914195)](https://steamcommunity.com/profiles/76561199561698781)
+[![Steam Stats](https://steam-profile-stats.vercel.app/api/card?username=zhengfu200&theme=dark&disable_animations=false&show_games=true&show_hours=true&show_joined=true&show_location=true&_=1783473811408)](https://steamcommunity.com/id/zhengfu200)
  
  --- 
  
