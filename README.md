@@ -10,7 +10,7 @@
  
  ---  
  
-[![Steam Stats](https://steam-profile-stats.vercel.app/api/card?steamid=76561199506655032&theme=dark&disable_animations=false&_=1783468876061)](https://steamcommunity.com/profiles/76561199506655032)
+[![Steam Stats](https://steam-profile-stats.vercel.app/api/card?steamid=76561199561698781&theme=dark&disable_animations=false&_=1783468914195)](https://steamcommunity.com/profiles/76561199561698781)
  
  --- 
  
